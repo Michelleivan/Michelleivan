@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Michelle Ivan 
 
-**Michelleivan/Michelleivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Full-Stack Web Developer Course.
 
-Here are some ideas to get you started:
+- My Goal for 2025: 
 
-- 🌱 I’m currently learning Full-Stack Web Developer Course
+    - [ ] At least to be a Front-End Developer.
+    - [ ] To be fully committed to programming.
 
 
